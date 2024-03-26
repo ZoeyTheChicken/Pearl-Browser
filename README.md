@@ -9,3 +9,4 @@ Theme template!!
   "FormForeColor": "Color for the Front of the Form"
 }
 ```
+That is a JSON (they must be JSON files to work.)
