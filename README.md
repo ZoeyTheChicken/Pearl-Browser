@@ -1,5 +1,6 @@
-# Pearl Browser - the new browser for Windows!
-Theme template!!
+# Pearl Browser - A modern Windows browser built in C# Win Forms!
+Theme template v1
+Supporting 18.0-pre3 to 19.0
 ```json
 {
   "ThemeName": "Your Theme",
