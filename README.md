@@ -1,5 +1,5 @@
 # Pearl Browser - A modern Windows browser built in C# Win Forms!
-Theme template v1
+TEMPLATE VERSION 2
 Supports 18.0.1 as of now
 ```json
 {
